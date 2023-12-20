@@ -1,0 +1,12 @@
+appId: PasswordManagerByMingLee
+productName: PassMan
+copyright: Copyright © 2023 Ming Lee Ng
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
